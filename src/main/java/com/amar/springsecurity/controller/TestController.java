@@ -11,10 +11,10 @@ public class TestController {
 		
 		return "Called successfully";
 	}
-	
-	@RequestMapping("/authenticate")
-	public String authenticate() {
-		
-		return "Not authenticated";
-	}
+//	
+//	@RequestMapping("/authenticate")
+//	public String authenticate() {
+//		
+//		return "Not authenticated";
+//	}
 }
